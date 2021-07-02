@@ -7,7 +7,7 @@ const UserInfo = () => (
       src="https://assets.ccbp.in/frontend/react-js/profile-img.png"
       alt="profile pic"
     />
-    <h1 className="user-name">Wade Warren</h1>
+    <h1 className="user-name">Naveen Mallineni</h1>
     <p className="user-designation">Software developer at UK</p>
   </div>
 )
